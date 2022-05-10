@@ -32,11 +32,11 @@ aside {
 }
 
 .contact-links-tel {
-    color: #ffffff;
-    font-size: 14px;
-    line-height: 24px;
-    text-decoration: none;
-  }
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration: none;
+}
 
 .bold {
   font-size: 700;
@@ -74,7 +74,7 @@ main {
   padding: 102px 88px 102px 88px;
 }
 .main-description {
-  width: 400px;
+  width: 600px;
 }
 
 .job-title {
@@ -160,5 +160,3 @@ h1 {
 .name {
   width: 480px;
 }
-
-
